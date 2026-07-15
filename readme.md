@@ -1,6 +1,6 @@
 [![License: OML v1.4](https://img.shields.io/badge/License-Osy_Matrix_v1.4-4B0082?style=for-the-badge&logo=shield&logoColor=white)](./LICENSE)
 
-# The Osy Matrix License (OML) v1.4
+# The Osy Matrix License (OML)
 
 The GNU GPL was written for the 1980s. The AGPLv3 was written in 2007. The tech landscape has fundamentally changed, and open-source labor is currently being exploited by loopholes that older licenses never anticipated.
 
