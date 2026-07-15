@@ -1,0 +1,68 @@
+# THE OSY MATRIX LICENSE (OML) v1.4
+
+Copyright (C) 2026 [Your Name / The Osy Project].
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing its legal text is strictly prohibited.
+
+## LAYER 1: THE CORE DIRECTIVES (Plain English)
+*This is the human-readable summary. The legal code below is what holds up in court.*
+
+1. **The Symbiotic Exchange:** You can use, modify, and sell this software. If you distribute it, you must share the source code under this exact license.
+2. **The Cloud Trigger:** Letting users interact with this code over a network (SaaS) counts as distribution. You must provide network users with the source code.
+3. **The Hardware Ally:** If you put this in a physical device, you must give the user the cryptographic keys and root access to run their own modified code. 
+4. **The AI Boundary:** You may use this code to train AI. However, if you deploy a commercial AI model trained on this code, the model's weights and architecture must be open-sourced under this exact license.
+5. **The Grace Period:** If you make an honest mistake, you have 30 days to fix it before your license is permanently terminated.
+6. **Patent Peace:** Contributors grant you a patent license. If you sue anyone over patents related to this software, you lose your rights to use it.
+
+---
+
+## LAYER 2: TERMS AND CONDITIONS
+
+### 0. Definitions
+*   **"The Program"** refers to any copyrightable work licensed under this License.
+*   **"Corresponding Source"** means all source code needed to generate, install, run, and modify the Program, including scripts and interface definitions.
+*   **"Network Interaction"** means allowing users to interact with the Program remotely through a computer network (e.g., SaaS, Cloud APIs).
+*   **"Derived AI Model"** means any machine learning model whose weights, parameters, or logic were generated, fine-tuned, or optimized using the Program as training data or inputs.
+*   **"Data Ingestion"** means the automated or manual scraping, downloading, caching, parsing, or processing of the Program's source code, binaries, or outputs for the purpose of training, fine-tuning, or validating machine learning models.
+*   **"Installation Information"** includes any cryptographic keys, digital signatures, secure-boot tokens, or hardware unlock methods required to install and execute modified versions of the Program on a specific hardware device.
+
+### 1. Basic Permissions & Copyleft
+All rights granted under this License are irrevocable provided the stated conditions are met. You may make, run, and propagate covered works. If you convey (distribute) a modified version of the Program, you must license the entire work, as a whole, under this exact License and provide the complete Corresponding Source to the recipients.
+
+### 2. Protecting Legal Rights (Anti-Circumvention & AI Waiver)
+No covered work shall be deemed part of an effective technological measure under any applicable law fulfilling obligations under the WIPO copyright treaty. 
+**Contractual Waiver:** By exercising rights under this License, including the Data Ingestion of the Program for machine learning, you explicitly acknowledge that such use is permitted solely by the conditional grant of this License. In consideration for the broad rights granted herein, you agree to waive any "Fair Use" or equivalent statutory defenses regarding the ingestion of this code for the purpose of training proprietary or permissive AI models.
+
+### 3. The Network Trigger (Cloud Interaction)
+If you modify the Program and allow users to engage in Network Interaction with it, you must provide those interacting users with a prominent, free, and immediate mechanism to download the complete Corresponding Source of your modified version.
+
+### 4. The Hardware Ally (User Products & Installation)
+If you convey an object code work in, or with, a physical "User Product" (consumer or IoT hardware), the Corresponding Source must be accompanied by all Installation Information. You may not use hardware-level locks, firmware checks, or cryptographic signatures to prevent the user from installing and executing their own modified code on the device they own.
+
+### 5. The AI Boundary (Data & Model Reciprocity)
+You are granted permission to Data Ingest, process, or utilize the Program for AI training **only under the following condition of strict reciprocity**: If you deploy, sell, or provide network access to a Derived AI Model, you must release the model's full architecture, weights, parameters, and data processing pipeline under this exact License. Utilization of this Program to train models released under permissive, non-copyleft licenses (e.g., MIT, Apache 2.0) or proprietary models without a separate, bilaterally signed commercial agreement is a material breach of this contractual grant.
+
+### 6. Privacy and Anti-Spyware
+The Program must not contain mandatory, hidden, or non-opt-in telemetry. Any data collection must be strictly opt-in, fully transparent, and its source code must be included in the Corresponding Source.
+
+### 7. Patents and Defensive Retaliation
+Each contributor grants you a non-exclusive, worldwide, royalty-free patent license under their essential patent claims. 
+**Defensive Retaliation:** If you initiate litigation (including a cross-claim) alleging that this Program constitutes patent infringement, your patent license and all rights to use this Program are instantly and permanently terminated.
+
+### 8. Termination and 30-Day Cure Period
+You may not propagate or modify the Program except as expressly provided under this License. Any attempt otherwise is void and will automatically terminate your rights.
+**The Cure:** However, if you cease all violation of this License, your license is reinstated permanently if the copyright holder fails to notify you of the violation within 60 days. Furthermore, your license is reinstated permanently if you receive notice of the violation and cure it prior to 30 days after your receipt of the notice.
+
+### 9. Acceptance and Contractual Nature
+You are not required to accept this License to receive a copy. However, nothing other than this License grants you permission to propagate or modify the Program (including Data Ingestion). These actions infringe copyright if you do not accept this License. Therefore, by modifying, propagating, or ingesting the Program for AI training, you indicate your contractual acceptance of this License.
+
+### 10. Severability and Reformation
+If any provision of this License is held to be unenforceable or invalid under applicable law, such provision shall be reformed only to the minimum extent necessary to make it enforceable. The remaining provisions of this License shall remain in full force and effect.
+
+### 11. Governing Law and Jurisdiction
+This License shall be governed by the copyright laws of the United States and, for contractual matters, the laws of the State of Delaware, or the jurisdiction of the copyright holder's primary residence, at the copyright holder's sole discretion. Any legal action shall be brought in a court of competent jurisdiction selected by the copyright holder, and the prevailing party shall be entitled to recover reasonable attorneys' fees.
+
+### 12. Disclaimer of Warranty & Limitation of Liability
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. THE PROGRAM IS PROVIDED "AS IS". IN NO EVENT WILL ANY COPYRIGHT HOLDER BE LIABLE FOR DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM.
+
+### 13. Integration and Entire Agreement
+Layer 1 ("The Core Directives") is provided for informational and human-readability purposes only and holds no legal weight. Layer 2 ("Terms and Conditions") constitutes the entire, final, and exclusive agreement between the copyright holder and the licensee regarding the Program. In the event of any conflict, ambiguity, or discrepancy between Layer 1 and Layer 2, the strict legal text of Layer 2 shall exclusively govern.
