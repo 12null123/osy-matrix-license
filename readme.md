@@ -1,4 +1,4 @@
-[![License: OML v1.4](https://img.shields.io/badge/License-Osy_Matrix_v1.4-4B0082?style=for-the-badge&logo=shield&logoColor=white)](./LICENSE.md)
+[![License: OML v1.4](https://img.shields.io/badge/License-Osy_Matrix_v1.4-4B0082?style=for-the-badge&logo=shield&logoColor=white)](./LICENSE)
 
 # The Osy Matrix License (OML) v1.4
 
