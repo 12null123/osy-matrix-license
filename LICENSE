@@ -1,12 +1,12 @@
 # THE OSY MATRIX LICENSE (OML) v1.4
 
-Copyright (C) 2026 [Your Name / The Osy Project].
+Copyright (C) 2026 [Your Name / Osy].
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing its legal text is strictly prohibited.
 
 ## LAYER 1: THE CORE DIRECTIVES (Plain English)
 *This is the human-readable summary. The legal code below is what holds up in court.*
 
-1. **The Symbiotic Exchange:** You can use, modify, and sell this software. If you distribute it, you must share the source code under this exact license.
+1. **The Matrix Exchange:** You can use, modify, and sell this software. If you distribute it, you must share the source code under this exact license.
 2. **The Cloud Trigger:** Letting users interact with this code over a network (SaaS) counts as distribution. You must provide network users with the source code.
 3. **The Hardware Ally:** If you put this in a physical device, you must give the user the cryptographic keys and root access to run their own modified code. 
 4. **The AI Boundary:** You may use this code to train AI. However, if you deploy a commercial AI model trained on this code, the model's weights and architecture must be open-sourced under this exact license.
